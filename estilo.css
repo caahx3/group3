@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    height: 5%;
+    padding-top: 0.6%;
+    padding-left: 0.8%;
+    padding-right: 0.8%;
+    font-size:x-large;
+    color: rgb(0, 0, 0);
+    outline: auto;
+    outline-color: rgb(23, 226, 84);
+    background-color: rgb(22, 180, 30);
+    margin-bottom: 3%;
+}
