@@ -1,6 +1,39 @@
 body {
     background-color: rgb(255, 255, 255);
-    font-size: 28px;
+    font-family: sans-serif;
+    font-size: 16px;
+  }
+
+  #cabecalho{
+      background-color: rgb(240,240,240);
+      text-align: center;
+      border: black 1px solid;
+      border-radius: 10px;
+      margin-bottom: 25px
+  }
+
+  #navbar{
+      margin-bottom: 25px;
+      border-radius: 10px;
+  } 
+
+  #imgprincipal{
+      width: 70%;
+      border-radius: 10px;
+  }
+
+  #fotonoticia{
+      width: 45%;
+      border-radius: 10px;
+  }
+
+  #rodape{
+    background-color: rgb(240,240,240);
+    font-family: sans-serif;
+    text-align: center;
+    border: black 1px solid;
+    border-radius: 10px;
+    margin-bottom: 25px
   }
   
   ul {
@@ -46,3 +79,5 @@ body {
   a:hover, a:active {
     background-color: rgb(95, 95, 95);
   }
+
+
