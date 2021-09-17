@@ -18,8 +18,13 @@ body {
   } 
 
   #imgprincipal{
+<<<<<<< HEAD
       width: 100%;
       border-radius: 10px;
+=======
+      width: 70%;
+      border-radius: 15px 50px 30px;
+>>>>>>> 99b298c92ad2381cdb986a648214495e04b6d026
   }
 
   #fotonoticia{
@@ -89,7 +94,5 @@ body {
   border-radius: 10px;
   margin-bottom: 3%;
 }
-
-  
 =======
 >>>>>>> Stashed changes
