@@ -19,7 +19,7 @@ body {
 
   #imgprincipal{
       width: 70%;
-      border-radius: 10px;
+      border-radius: 15px 50px 30px;
   }
 
   #fotonoticia{
